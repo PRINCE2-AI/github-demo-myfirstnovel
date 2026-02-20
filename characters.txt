@@ -1,6 +1,6 @@
 If you’re looking to build production-ready AI applications that can reason and retrieve external data for 
 context-awareness, you’ll need to master LangChain—a popular development framework and platform 
-for building, running, and managing agentic applications. LangChain is used by several leading companies, 
+for building, running, and managing agentic applicationsgff. LangChain is used by several leading companies, 
 including Zapier, Replit, Databricks, and many more. This guide is an indispensable resource for developers 
 who understand Python or JavaScript but are beginners eager to harness the power of AI.
 Authors Mayo Oshin and Nunggo Campos demystify the use of LangChain through practical insights and in-depth 
